@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on projects to adquire knwoledge.
 - 📫 How to reach me ...
-- 😄 Pronouns: she
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 <!---
